@@ -1,4 +1,5 @@
-This repo contains my tasks of the date 9.5.2025 
+This repo contains my tasks of the date 9.5.2025.
+
 I have practiced linux commands
 Objective:  Understand the basics of Nginx configuration, logs, and how it fits into the system.
 
