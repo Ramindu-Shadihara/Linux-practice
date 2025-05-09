@@ -6,3 +6,5 @@ Objective:  Understand the basics of Nginx configuration, logs, and how it fits 
 What I learned : How Nginx works: Proxy, static serving, reverse proxy.,    Log Analysis-access and error logs: what is 200/404/502 etc.,
 Practiced parsing access logs using awk, cut, grep
 
+I have attached my screenshots of the Linux terminal
+
